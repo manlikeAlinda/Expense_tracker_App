@@ -56,7 +56,7 @@ In the project directory, you can run:
 npm run start
 Runs both the client app and the server app in development mode.
 
-Open http://localhost:5000 to view the client in the browser.
+Open http://localhost:3000 to view the client in the browser.
 
 npm run-script server
 Runs just the server app in development mode.
